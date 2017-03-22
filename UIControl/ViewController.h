@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{
+    
+}
 
 @property (nonatomic, weak) IBOutlet UITextField *inputField;
 @property (weak, nonatomic) IBOutlet UITextField *resultDisplayer;
